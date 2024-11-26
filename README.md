@@ -30,10 +30,10 @@ Welcome to my GitHub Profile! I'm currently studying **Information technology** 
 ---
 
 ## 🏆 Achievements
-- 🔥 Current GitHub Streak: 50+ days
-- 🌟 Contributed to 5+ open-source projects
+- 🔥 **Current GitHub Streak**: 50+ days
+- 🌟 **Contributed to 5+ open-source projects**
 - 🎓 **Currently studying**: Business and Technology at [BTU University](https://btu.edu.ge/en/home-english/)
-- 🧑‍💻 Building personal projects like a mood tracking app and coffee consumption tracker
+- 🧑‍💻 **Building personal projects** like a mood tracking app and coffee consumption tracker
 
 
 ---
