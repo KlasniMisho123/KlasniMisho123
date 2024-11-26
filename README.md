@@ -1,11 +1,12 @@
-# Hi there! 👋 Welcome to my GitHub Profile!
+# Hi there! 👋 I'm [Your Name], a Student and Aspiring Full-Stack Developer
+Welcome to my GitHub Profile! I'm currently studying **[Your Major]** and focusing on becoming a proficient full-stack developer. I love exploring both front-end and back-end technologies and am always eager to learn and grow. I'm passionate about building projects that solve real-world problems and contribute to the open-source community.
 
-## 🚀 About Me
-I'm a [Your Profession] with a passion for [Your Interests]. I love building innovative solutions and contributing to open-source projects.
-
-- 🌱 Currently learning: [What you're learning]
-- 💼 Working on: [Your projects or job]
-- 🏆 Fun fact: [A fun fact about you]
+- 🌱 **Currently learning:** React, Node.js, Express, and more!
+- 🔭 **Learning goals:** Dive deeper into full-stack development and work on real-world projects.
+- 🌍 **Open to:**
+  - Internship opportunities
+  - Collaborating on open-source projects
+  - Freelance work or projects
 
 ---
 
