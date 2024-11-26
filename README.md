@@ -42,9 +42,9 @@ Welcome to my GitHub Profile! I'm currently studying **Information technology** 
 ---
 
 ## 💼 Projects
-- [MoodCheck](https://github.com/KlasniMisho123/moodcheck) - A web app to track and monitor your mood.
-- [ExpressoMeter](https://github.com/KlasniMisho123/expresometer) - A coffee consumption tracker with caffeine level tracking.
-- [Pokedex](https://github.com/KlasniMisho123/pokedex) - A web app that displays information about Pokémon.
+- ![MoodCheck](https://img.shields.io/badge/MoodCheck-Tracker-yellow?style=flat-square) [MoodCheck](https://github.com/KlasniMisho123/moodcheck) - A web app to track and monitor your mood.
+- ![ExpressoMeter](https://img.shields.io/badge/ExpressoMeter-Coffee-orange?style=flat-square) [ExpressoMeter]((https://github.com/KlasniMisho123/EspressoMeter)) - A coffee consumption tracker with caffeine level tracking.
+- ![Pokedex](https://img.shields.io/badge/Pokedex-Pokemon-blue?style=flat-square)  [Pokedex](https://github.com/KlasniMisho123/pokedex) - A web app that displays information about Pokémon.
 
 ---
 
