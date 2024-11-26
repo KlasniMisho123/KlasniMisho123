@@ -19,7 +19,6 @@ I'm a [Your Profession] with a passion for [Your Interests]. I love building inn
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=KlasniMisho123&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KlasniMisho123&show_icons=true&theme=radical)
 
 ---
 
@@ -37,6 +36,6 @@ I'm a [Your Profession] with a passion for [Your Interests]. I love building inn
 ---
 
 ## 🎨 Fun Section
-💻 Favorite IDE: VSCode  
-☕ Preferred Beverage: Coffee  
-🎮 Hobby: Gaming  
+🍻 **Preferred Beverage**: Beer  
+💻 **Favorite IDE**: VSCode  
+🎮 **Hobby**: Gaming
