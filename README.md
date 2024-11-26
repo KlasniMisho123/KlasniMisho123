@@ -4,9 +4,9 @@ Welcome to my GitHub Profile! I'm currently studying **Information technology** 
 - 🌱 **Currently learning:** TypeScript!
 - 🔭 **Learning goals:** Dive deeper into full-stack development and work on real-world projects.
 - 🌍 **Open to:**
-  -- Internship opportunities
-  -- Collaborating on open-source projects
-  -- Freelance work or projects
+  - Internship opportunities
+  - Collaborating on open-source projects
+  - Freelance work or projects
 
 ---
 ## 🛠️ Technologies & Tools
@@ -30,10 +30,10 @@ Welcome to my GitHub Profile! I'm currently studying **Information technology** 
 ---
 
 ## 🏆 Achievements
--🔥 Current GitHub Streak: 50+ days
--🌟 Contributed to 5+ open-source projects
--🎓 Currently studying: Business and Technology at [Your University Name]
--🧑‍💻 Building personal projects like a mood tracking app and coffee consumption tracker
+- 🔥 Current GitHub Streak: 50+ days
+- 🌟 Contributed to 5+ open-source projects
+- 🎓 Currently studying: Business and Technology at [Your University Name]
+- 🧑‍💻 Building personal projects like a mood tracking app and coffee consumption tracker
 
 
 ---
