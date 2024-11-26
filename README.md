@@ -22,8 +22,9 @@ Welcome to my GitHub Profile! I'm currently studying **Information technology** 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/your-profile)
+[[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/misho-silagava-9829aa292/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mikheili.silagava@gmail.com)
+
 
 ---
 
@@ -31,6 +32,19 @@ Welcome to my GitHub Profile! I'm currently studying **Information technology** 
 - 🔥 Current GitHub Streak: 50+ days
 - 🌟 Contributed to 5+ open-source projects
 - 📘 Published articles on [Dev.to](https://dev.to/your-profile)
+
+---
+
+## 💡 Goals
+- 🚀 Continue learning **TypeScript** and **Next.js**
+- 🌍 Open to internship and collaboration opportunities
+- 
+---
+
+## 💼 Projects
+- [MoodCheck](https://github.com/KlasniMisho123/moodcheck) - A web app to track and monitor your mood.
+- [ExpressoMeter](https://github.com/KlasniMisho123/expresometer) - A coffee consumption tracker with caffeine level tracking.
+- [Pokedex](https://github.com/KlasniMisho123/pokedex) - A web app that displays information about Pokémon.
 
 ---
 
