@@ -18,7 +18,6 @@ Welcome to my GitHub Profile! I'm currently studying **Information technology** 
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=KlasniMisho123&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-
 ---
 
 ## 📫 Connect with Me
