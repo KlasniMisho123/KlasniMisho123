@@ -10,7 +10,7 @@ Welcome to my GitHub Profile! I'm currently studying **Information technology** 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=KlasniMisho123&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 ## 🛠️ Technologies & Tools
