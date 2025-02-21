@@ -2,6 +2,7 @@
 Welcome to my GitHub Profile! I'm currently studying **Information technology** and focusing on becoming a proficient full-stack developer. I love exploring both front-end and back-end technologies and am always eager to learn and grow. I'm passionate about building projects that solve real-world problems and contribute to the open-source community.
 
 - 🌱 **Currently learning:** TypeScript!
+- 🖼️ **Current Project:** ArtScape
 - 🔭 **Learning goals:** Dive deeper into full-stack development and work on real-world projects.
 - 🌍 **Open to:**
   - Internship opportunities
