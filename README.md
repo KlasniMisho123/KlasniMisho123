@@ -40,7 +40,7 @@ Welcome to my GitHub Profile! I'm currently studying **Information technology** 
 
 ## 📫 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/misho-silagava-9829aa292/)
-- ![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)&nbsp;mikheili.silagava@gmail.com
+-- <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Gmail" style="vertical-align:middle;"/> mikheili.silagava@gmail.com
 
 
 ---
